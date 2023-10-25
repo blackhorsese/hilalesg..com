@@ -13,7 +13,7 @@ export default function home() {
             </div>
             <div className='md:px-16 mx-auto justify-center overflow-hidden px-5'>
                 <div className='text-white max-w-screen-m md:py-20 mt-48 md:mt-0 pb-32 md:pb-0'>
-                    <p className='first md:text-2xl text-lg'>
+                    <p className='first md:text-2xl text-xl'>
                         We are
                     </p>
                     <h1 className='second md:text-8xl font-light font-sans text-5xl pt-2 md:pt-0'>
