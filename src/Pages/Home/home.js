@@ -17,7 +17,7 @@ export default function home() {
                         We are
                     </p>
                     <h1 className='second md:text-8xl font-light font-sans text-5xl pt-2 md:pt-0'>
-                        Launching Soon ADGM <br className='hidden md:block lg:block'/> in Abu Dhabi
+                        "Soon in ADGM, <br className='hidden md:block lg:block'/> Abu Dhabi"
                     </h1>
                 </div>
             </div>
